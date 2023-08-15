@@ -1,5 +1,9 @@
+> This Repository is a identical copy from the reddit r/place 2023 dataset.  
+> It serves for archiving!
+
 # r/place 2023 Data
-> Posted by u/arbeitrary
+> Posted by [u/arbeitrary](https://www.reddit.com/user/arbeitrary/)  
+> Post Url: https://www.reddit.com/r/place/comments/15bjm5o/rplace_2023_data/
 
 You all have shared your creativity and passion with us through another r/place adventure. We once again share some of the data with you.
 
