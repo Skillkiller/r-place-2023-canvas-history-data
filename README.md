@@ -10,6 +10,8 @@ You all have shared your creativity and passion with us through another r/place 
 ## Media
 Full-frame canvas prior to whiteout: https://placedata.reddit.com/data/final_2023_place.png
 
+![](final_2023_place.png)
+
 And higher-resolution versions, just in case:
 - https://placedata.reddit.com/data/final_2023_place_2x.png
 - https://placedata.reddit.com/data/final_2023_place_4x.png
