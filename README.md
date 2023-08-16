@@ -33,3 +33,6 @@ We have split the data into 53 gzipped CSV files: https://placedata.reddit.com/d
 You can find the whole list here: https://placedata.reddit.com/data/canvas-history/2023/index.html
 
 I look forward to seeing what our users create from this output of their own creation.
+
+## Further note
+I removed the gzip compression and compressed each file again with LZMA in a zip file. This has a disk space advantage.
